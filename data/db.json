@@ -1,0 +1,52 @@
+{
+        "products": [
+        {
+          "id": 1,
+          "image": "https://i.postimg.cc/WbQbGKNs/b1418d4e-7bce-4a6d-930e-6a0f8ae0b56d.webp",
+          "name": "Hyaluronic Acid Serum",
+          "category": "Serums",
+          "price": "R175",
+          "quantity": 5
+        },
+        {
+          "id": 2,
+          "image": "https://i.postimg.cc/cCrJCRdH/357e9ff4-e753-44d2-a9f3-1b0ad3009c98.webp",
+          "name": "Rose Water Serum",
+          "category": "Serums",
+          "price": "R220",
+          "quantity": 5
+        },
+        {
+          "id": 3,
+          "image": "https://i.postimg.cc/BQJgYNJD/753ced81-5c99-468b-acff-b0cb2ac35c33.webp",
+          "name": "Honey Melon Reviving Mask",
+          "category": "Masks",
+          "price": "R150",
+          "quantity": 5
+        },
+        {
+          "id": 4,
+          "image": "https://i.postimg.cc/fTHrY1Yk/c32fa48b-fd9b-45b6-961e-df0f3a90dd39.webp",
+          "name": "Brightening Blueberry Mask",
+          "category": "Masks",
+          "price": "R150",
+          "quantity": 5
+        },
+        {
+          "id": 5,
+          "image": "https://i.postimg.cc/pTJHvk48/e7ef380e-04ca-49a9-b163-bf3f52edaa99.jpg",
+          "name": "Oil Cleanser",
+          "category": "Facial Cleansers",
+          "price": "R150",
+          "quantity": 5
+        },
+        {
+          "id": 6,
+          "image": "https://i.postimg.cc/Nf622wTv/a224844e-2a77-4e03-9bd9-843d0b873b7f.jpg",
+          "name": "Salicylic Acid Cleanser",
+          "category": "Facial Cleansers",
+          "price": "R125",
+          "quantity": 5
+        }
+        ]
+    }
